@@ -3,7 +3,6 @@
 Chatbot is an intelligent AI assistant that answers user queries by leveraging real-time web search results and advanced language models. It provides reliable information, and gracefully handles cases where no information is found.
 
 ---
-
 ## 🚀 Introduction
 
 Chatbot combines the power of web search and Large Language Models (LLMs) to deliver accurate answers to user questions. By searching the web and using a smart prompt, it ensures up-to-date and relevant responses. The application is built using Python and Gradio for an intuitive web interface.

@@ -18,7 +18,6 @@ Chatbot combines the power of web search and Large Language Models (LLMs) to del
 - 🧩 **Modular Codebase**: Clean separation of search, prompt, and AI logic.
 
 ---
-
 ## ⚡ Installation
 
 1. **Clone the repository**

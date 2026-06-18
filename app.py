@@ -6,7 +6,6 @@ def chatbot(query):
     web_context = web_search(query)
     answer = generate_answer(query, web_context)
     return answer
-
 gr.Interface(
     fn=chatbot,
     inputs=gr.Textbox(lines=2, placeholder="Ask anything..."),

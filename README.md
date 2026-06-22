@@ -1,7 +1,6 @@
 # 🤖 Chatbot
 
 Chatbot is an intelligent AI assistant that answers user queries by leveraging real-time web search results and advanced language models. It provides reliable information, and gracefully handles cases where no information is found.
-
 ---
 ## 🚀 Introduction
 

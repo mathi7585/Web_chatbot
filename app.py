@@ -1,7 +1,6 @@
 import gradio as gr
 from web_search import web_search
 from llm import generate_answer
-
 def chatbot(query):
     web_context = web_search(query)
     answer = generate_answer(query, web_context)

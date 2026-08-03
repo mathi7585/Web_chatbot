@@ -7,7 +7,6 @@ Chatbot is an intelligent AI assistant that answers user queries by leveraging r
 Chatbot combines the power of web search and Large Language Models (LLMs) to deliver accurate answers to user questions. By searching the web and using a smart prompt, it ensures up-to-date and relevant responses. The application is built using Python and Gradio for an intuitive web interface.
 
 ---
-
 ## ✨ Features
 
 - 🔍 **Web Search Integration**: Finds updated information using Tavily web search.
